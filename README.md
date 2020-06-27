@@ -31,7 +31,7 @@ yarn android
 ```
 - Então após finalizar a compilação e instalação da aplicação em seu dispositivo, basta iniciá-la com o comando a seguir:
 
-```bash
+```zsh
 yarn start
 ```
 Pronto, agora você pode testar a aplicação no dipositivo
