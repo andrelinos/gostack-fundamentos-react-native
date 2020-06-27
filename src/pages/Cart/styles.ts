@@ -61,7 +61,7 @@ export const ProductPrice = styled.Text`
   margin-top: 5px;
 
   font-size: 16px;
-  color: #e83f5b;
+  color: rgba(16, 172, 132, 1);
 `;
 
 export const ProductQuantity = styled.Text`
@@ -70,7 +70,7 @@ export const ProductQuantity = styled.Text`
   margin-right: 10px;
 
   font-size: 16px;
-  color: #e83f5b;
+  color: rgba(16, 172, 132, 1);
 `;
 
 export const ActionContainer = styled.View`
@@ -82,7 +82,7 @@ export const ActionContainer = styled.View`
 `;
 
 export const ActionButton = styled.TouchableOpacity`
-  background: rgba(232, 63, 91, 0.1);
+  background: rgba(9, 132, 227, 0.1);
   border-radius: 5px;
   padding: 12px;
   margin-bottom: 5px;
@@ -93,7 +93,7 @@ export const TotalProductsContainer = styled.View`
   bottom: 0px;
 
   flex-direction: row;
-  background: #e83f5b;
+  background: rgba(16, 172, 132, 1);
 
   padding: 20px 40px;
   justify-content: space-between;
